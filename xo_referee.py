@@ -1,3 +1,6 @@
+# https://py.checkio.org/mission/x-o-referee/
+
+
 def check_3(text: str) -> bool:
     is_all_equal = (text == (len(text) * text[0]))
     if text[0] == ".":

@@ -1,3 +1,6 @@
+# https://py.checkio.org/mission/house-password/
+
+
 def house_password_checkio(data: str) -> bool:
     # 'all' returns True is all values in iterator are True
     check = all([
